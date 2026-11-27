@@ -1,3 +1,5 @@
+/*LC-547. Number of Provinces*/
+
 class Solution {
 public:
     void bfs(int src, vector<bool>& visited, vector<vector<int>>& connected) {
